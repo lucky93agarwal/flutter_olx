@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "199527854178",
+    "firebase_url": "https://sangeetha98475.firebaseio.com",
+    "project_id": "sangeetha98475",
+    "storage_bucket": "sangeetha98475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199527854178:android:b4a3ab3713aac6c7ea213b",
+        "android_client_info": {
+          "package_name": "com.sangeetha1.olx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199527854178-sibn1m6aqk5ua2139lr4amem9fll6ngr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4AO6Rb2upCfimQxzRrYm6uHZPswd0W4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199527854178-sibn1m6aqk5ua2139lr4amem9fll6ngr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
