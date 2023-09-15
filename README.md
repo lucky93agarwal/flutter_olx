@@ -1,4 +1,20 @@
 # flutter_ola
+OLX changed completely! Enjoy the new app to buy and sell simpler and faster. Make the smart choice. Download now our new, lighter and better-than-ever app.
+
+In just 3 steps you can sell whatever you want! Choose the category, describe your product, write the price, upload the photos and you are ready to sell.
+
+With the new OLX app you will be in a safe community to buy and sell:
+o Validate your profile, so others know who they are buying from.
+o Discover how many followers your seller has.
+o Know since when he is an app user and see what other accounts he follows.
+
+We join buyers with sellers and that's why we work in our chat, so you can always communicate there. Do not take your conversation outside our system, share photos, video and even your location.
+
+Find everything you need. Organize the ads as you like, so you will find everything faster and easier! Try our new search engine is great.
+
+Now highlight your ads in an easier way and receive more contacts for each item you sell.
+
+Do not forget to try our new app, you still have not seen anything similar.
 
 ## Screenshot
 <p align="center" width="100%">
