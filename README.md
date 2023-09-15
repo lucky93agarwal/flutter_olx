@@ -1,4 +1,4 @@
-# flutter_ola
+# flutter_olx
 OLX changed completely! Enjoy the new app to buy and sell simpler and faster. Make the smart choice. Download now our new, lighter and better-than-ever app.
 
 In just 3 steps you can sell whatever you want! Choose the category, describe your product, write the price, upload the photos and you are ready to sell.
