@@ -69,3 +69,6 @@ A new Flutter project.
 * Dark mode supported
 * 20X7 support
 * Many more features
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/flutter_twitter_clone/count.svg" alt ="Loading">
